@@ -1,1 +1,1 @@
-"# my-devops-journey" 
+Building projects to understand devops 
