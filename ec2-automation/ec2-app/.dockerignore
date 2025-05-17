@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+
+# Next.js build output
+.next
+
+# misc
+.DS_Store
+*.tgz
+*.log
+
+# git
+.git
+.gitignore
+
+# editor directories
+.vscode
+.idea
+
+# test/coverage
+coverage
+.nyc_output
+
+# any large files or directories not needed for build or runtime
+# e.g., large source files, development assets
